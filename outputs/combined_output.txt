@@ -1,4 +1,5 @@
 Homepage
+
 Headline:
 Big Burgers and Great Vibes That Fit Your Budget
 
@@ -16,33 +17,26 @@ Reliable Home Delivery
 Fast & Easy Takeaway
 
 Service Details:
-
 Vibrant Dine-In Experience: Enjoy our full menu of signature burgers and comfort food in a high-energy setting. Comfortable seating makes it the perfect social spot for large groups and student hangouts.
 Reliable Home Delivery: Get your favorite meals delivered fresh to your door with packaging designed to keep food hot. A convenient option for busy professionals and students needing a hearty meal at home.
 Fast & Easy Takeaway: Skip the wait with our efficient pickup service for delicious meals on the go. Perfect for grabbing a quick, affordable bite without compromising on portion size or flavor.
 
 Why Choose Us:
-
 Student-Friendly Value: Enjoy massive, high-quality meals at prices that easily fit a modest budget.
 Incredible Menu Variety: Choose from an extensive range of burgers, savory mains, and decadent desserts.
-
 Satisfyingly Large Portions: We serve hearty plates ensuring you get the best value for every meal.
-
 The Ultimate Social Hangout: A welcoming, youthful space built for making memories with friends and family.
 
 CTA Section
 
 Contact / Booking Prompts:
-
 Craving a burger? Order online now for fast delivery or swing by for a quick takeaway.
 Planning a hangout? Visit us at New BEL Road to grab a table and enjoy the full vibe.
 
 Trust-Building Copy:
-
 Join the thousands of local foodies who love our generous portions and budget-friendly comfort food.
 Quality you can count on—freshly prepared meals served in a friendly, social atmosphere.
 
 Location/Urgency CTAs:
-
 We’re right in the heart of New BEL Road! Stop in today before the dinner rush to secure your favorite spot.
 Don't miss out on our signature burgers—the perfect fuel for your next study break or social catch-up
